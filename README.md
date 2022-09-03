@@ -1,7 +1,7 @@
 # Summer Internship and Full time Recruiting
 This repo contains a list of companies recruiting for various internship and new grad roles in the summer of 2022 with resumption times of summer 2023.
 
-| # | Company | Role | Dealine |
+| # | Company | Role | Deadline |
 ---- | --- | --- |  --- |
 1	|		Goldman Sachs	|	[Summer Analyst](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7fddc596a5d3/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB)	| November 2022 |
 2	|		Goldman Sachs	|	[New Analyst](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7fddc596a5d3/candidate/so/pm/1/pl/1/opp/1-New-Analyst-New-Associate-Full-time-roles/en-GB)	| November 2022 |
