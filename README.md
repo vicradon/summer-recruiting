@@ -14,3 +14,8 @@ This repo contains a list of companies recruiting for various internship and new
 9 | Bank of America | [Global Risk Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-1802545/xf-0b361ea63946/candidate/so/pm/1/pl/1/opp/8684-Global-Risk-Summer-2023-Analyst-London/en-GB) | 6 November 2022 |
 10 | Bank of America | [Global Risk and Trading Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-1802545/xf-0b361ea63946/candidate/so/pm/1/pl/1/opp/8681-Global-Markets-Sales-and-Trading-Summer-2023-Analyst-London/en-GB) | 6 November 2022 |
 11 | Bank of America | [Global Research Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-1802545/xf-0b361ea63946/candidate/so/pm/1/pl/1/opp/8677-Global-Research-Summer-2023-Analyst-London/en-GB) | 6 November 2022 |
+12 | TikTok | [Software Engineer Graduate (Security)](https://careers.tiktok.com/position/7140277375040833806/detail) | Not stated |
+12 | TikTok | [Software Engineer Graduate (Infrastructure)](https://careers.tiktok.com/position/7134696915211569444/detail) | Not stated |
+12 | TikTok | [Systems Software Engineer Graduate](https://careers.tiktok.com/position/7138413107177851166/detail) | Not stated |
+12 | TikTok | [Machine Learning Engineer Graduate (Security)](https://careers.tiktok.com/position/7138420543367514381/detail) | Not stated |
+13 | Palantir | [Software Engineer New Grad](https://jobs.lever.co/palantir/73f6f11a-8165-4009-8dba-cc78ab9ca990) | Not stated |
