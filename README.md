@@ -19,3 +19,5 @@ This repo contains a list of companies recruiting for various internship and new
 12 | TikTok | [Systems Software Engineer Graduate](https://careers.tiktok.com/position/7138413107177851166/detail) | Not stated |
 12 | TikTok | [Machine Learning Engineer Graduate (Security)](https://careers.tiktok.com/position/7138420543367514381/detail) | Not stated |
 13 | Palantir | [Software Engineer New Grad](https://jobs.lever.co/palantir/73f6f11a-8165-4009-8dba-cc78ab9ca990) | Not stated |
+14 | Morgan Stanley | [Software Engineer New Grad](https://morganstanley.tal.net/vx/candidate/apply/13688) | Probably November 2022 |
+15 | Morgan Stanley | [Software Engineer Intern](https://morganstanley.tal.net/vx/candidate/apply/13689) | Probably November 2022 |
