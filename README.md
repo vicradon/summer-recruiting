@@ -21,3 +21,4 @@ This repo contains a list of companies recruiting for various internship and new
 13 | Palantir | [Software Engineer New Grad](https://jobs.lever.co/palantir/73f6f11a-8165-4009-8dba-cc78ab9ca990) | Not stated |
 14 | Morgan Stanley | [Software Engineer New Grad](https://morganstanley.tal.net/vx/candidate/apply/13688) | Probably November 2022 |
 15 | Morgan Stanley | [Software Engineer Intern](https://morganstanley.tal.net/vx/candidate/apply/13689) | Probably November 2022 |
+16 | CitiBank | [All EMEA technology roles](https://jobs.citi.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22industry%22,%22value%22:%22Europe+Middle+East+and+Africa%22%7D,%7B%22key%22:%22job_level%22,%22value%22:%22Full+Time+Analyst+-+Undergraduate%2fMasters%22%7D,%7B%22key%22:%22job_level%22,%22value%22:%22Full+Time+Associate+-+Masters%2fMBA%2fJD%2fPhD%22%7D]&ss=paid&utm_source=jobs.citi.com/emeafulltimeprogrammes&utm_medium=vanity&utm_campaign=2021_vanity) | - |
